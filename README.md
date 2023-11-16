@@ -24,3 +24,31 @@ O objetivo do projeto foi explorar e analisar um dataset com dados sobre exoplan
 <li> Scipy </li>
 
 <h2>Referências: </h2>
+
+[1] Machine Learning in Astronomy: a practical overview - Dalya Baron. Disponível em: <http://ned.ipac.caltech.edu/level5/March19/Baron/Baron3.html>. Acesso em: 15 nov. 2023.
+
+[2] KANG, H.; MANN, K. S. A Combinational Strategy for Clustering of Astronomical Datasets. International Journal for Research in Engineering Application & Management (IJREAM), v. 04, n. 06, p. 2454–9150, 2018.
+
+[3] SpaceToday - YouTube. Disponível em: <https://youtube.com/@SpaceToday?si=GqPP9N4Kxd5RgZUq>. Acesso em: 15 nov. 2023.
+
+‌[4] SCIKIT-LEARN. scikit-learn: machine learning in Python. Disponível em: <https://scikit-learn.org/stable/>.
+
+‌[5] NUMPY. Overview — NumPy v1.19 Manual. Disponível em: <https://numpy.org/doc/stable/>.
+
+[6] Overview of seaborn plotting functions — seaborn 0.12.0 documentation. Disponível em: <https://seaborn.pydata.org/tutorial/function_overview.html>.
+
+[7] PANDAS. pandas documentation — pandas 1.0.1 documentation. Disponível em: <https://pandas.pydata.org/docs/>.
+
+‌[8] MATPLOTLIB. Matplotlib: Python plotting — Matplotlib 3.3.4 documentation. Disponível em: <https://matplotlib.org/stable/index.html>.
+
+‌[9] Welcome to kneed’s documentation! — kneed 0.8.5 documentation. Disponível em: <https://kneed.readthedocs.io/en/latest/>. Acesso em: 15 nov. 2023.
+
+‌[10] CONTRIBUTORS, B. Bokeh documentation. Disponível em: <https://docs.bokeh.org/en/latest/>.
+
+‌[11] Moodle USP: e-Disciplinas. Disponível em: <https://edisciplinas.usp.br/pluginfile.php/7509547/mod_resource/content/2/Classificac>. Acesso em: 16 nov. 2023.
+
+‌[12] Prevendo Doenças do Coração com Python e Machine Learning - PARTE 2. Disponível em: <https://www.youtube.com/watch?v=5nS14oaOj1g>. Acesso em: 16 nov. 2023.
+
+‌[13] AdaBoost Classifier Tutorial. Disponível em: <https://www.kaggle.com/code/prashant111/adaboost-classifier-tutorial>.
+
+‌[14] Material disponibilizado pelo professor
