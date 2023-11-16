@@ -14,5 +14,13 @@ O objetivo do projeto foi explorar e analisar um dataset com dados sobre exoplan
 
 <h2>Bibliotes usadas: </h2>
 
+<li> Bokeh </li>
+<li> Numpy </li>
+<li> Mathplotlib </li>
+<li> Pandas </li>
+<li> Seaborn </li>
+<li> Kneed </li>
+<li> Scikitlearn </li>
+<li> Scipy </li>
 
 <h2>Referências: </h2>
