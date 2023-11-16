@@ -11,21 +11,22 @@ O objetivo do projeto foi explorar e analisar um dataset com dados sobre exoplan
 <h2>Desenvolvimento: </h2>
 Nesse notebook, existem variáveis definidas que podem ser alteradas e que são essenciais para a compreensão da análise como um todo. Para isso, tem-se que:
 
-<li> df_tratado: basea-se no dataframe tratado que será utilizado para os demais tópicos do notebook <li>
-</li> SEMENTE_ALEATORIA: é a semente fixa a qual os modelos passarão a prever os dados <li>
-</li> TAMANHO_TESTE: é o tamanho de dados (em porcentagem) que será reservado para teste. 
+<li> df_tratado: basea-se no dataframe tratado que será utilizado para os demais tópicos do notebook </li>
+<li> SEMENTE_ALEATORIA: é a semente fixa a qual os modelos passarão a prever os dados </li>
+<li> TAMANHO_TESTE: é o tamanho de dados (em porcentagem) que será reservado para teste. </li>
 <li> FEATURES: representa as colunas que podem ser modificadas e serem consideradas como features na análise</li>
-<li> TARGET: representa a coluna que pode ser modificada para a previsão</li>
-** Observação: é válido ressaltar que a análise dos dados abordado nesse notebook considerou um target categórico. Se o target for modificado para um numérico, os modelos de previsão precisarão ser modificados para *regressores* **
-<li> VIZINHOS: número de vizinhos que pode ser modificado no modelo k-NN</li>
-<li> NUM_GRUPOS: número de grupos finais que se deseja obter ao final
-<li> RAIO_VIZINHANCA: o valor do raio para serem considerados os pontos para o agrupamento</li>
-<li> NUM_MIN_VIZINHOS: o número de vizinhos a serem considerados a partir do raio definido anteriormente</li>
-<li> METODO_DISTANCIA: método de calcular distâncias a ser aplicado</li>
-<li> NIVEL_MAXIMO: se refere ao nível de divisões máximas possíveis de serem feitas</li>
+<li> TARGET: representa a coluna que pode ser modificada para a previsão </li>
+**Observação: é válido ressaltar que a análise dos dados abordado nesse notebook considerou um target categórico. Se o target for modificado para um numérico, os modelos de previsão precisarão ser modificados para regressores**
+<li> VIZINHOS: número de vizinhos que pode ser modificado no modelo k-NN </li>
+<li> NUM_GRUPOS: número de grupos finais que se deseja obter ao final </li>
+<li> RAIO_VIZINHANCA: o valor do raio para serem considerados os pontos para o agrupamento </li>
+<li> NUM_MIN_VIZINHOS: o número de vizinhos a serem considerados a partir do raio definido anteriormente </li>
+<li> METODO_DISTANCIA: método de calcular distâncias a ser aplicado </li>
+<li> NIVEL_MAXIMO: se refere ao nível de divisões máximas possíveis de serem feitas </li>
 
 Esses são os principais parâmetros em que podem ser modificados de maneira com que seja possível visualizar os diferentes comportamentos do dataset para cada tipo de análise que se deseja realizar. 
 
+OBSERVAÇÃO GERAL: o notebook possui muitos gráficos e muitas iterações. Por isso, o notebook levará um tempo considerável para rodar completamente. 
 <h2>Bibliotes usadas: </h2>
 
 <li> Bokeh </li>
