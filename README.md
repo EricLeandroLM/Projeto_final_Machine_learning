@@ -67,3 +67,5 @@ OBSERVAÇÃO GERAL: o notebook possui muitos gráficos e muitas iterações. Por
 ‌[13] AdaBoost Classifier Tutorial. Disponível em: <https://www.kaggle.com/code/prashant111/adaboost-classifier-tutorial>.
 
 ‌[14] Material disponibilizado pelo professor
+
+[15] https://spacetoday.com.br/medindo-a-massa-e-o-tamanho-de-um-exoplaneta-parecido-com-marte/
