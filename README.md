@@ -1,6 +1,6 @@
 <h1> Projeto final - Analise de um dataset sobre explaentas </h1>
 
-<b> Projeto final do grupo "Torre de PROGRAMAção negra" da matéria Machine learning da curso de ciência e tecnologia da ILUM. <b>
+<b> Projeto final do grupo "Torre de PROGRAMAção negra" da matéria Machine learning da curso de ciência e tecnologia da ILUM. </b>
 
 <b> Membros do grupo: Eric Leandro Lima Mendonça (23014), Júlia Amancio Ferreira (23006), Vinícius André Oliveira Lima Moura (23011) e João Otávio de Ávila Nascimento (23022)  </b>
 
