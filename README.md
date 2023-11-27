@@ -68,4 +68,6 @@ OBSERVAÇÃO GERAL: o notebook possui muitos gráficos e muitas iterações. Por
 
 ‌[14] Material disponibilizado pelo professor
 
-[15] https://spacetoday.com.br/medindo-a-massa-e-o-tamanho-de-um-exoplaneta-parecido-com-marte/
+[15] Medindo a Massa e o Tamanho de Um Exoplaneta Parecido Com Marte. Disponível em: <https://spacetoday.com.br/medindo-a-massa-e-o-tamanho-de-um-exoplaneta-parecido-com-marte/>. Acesso em: 27 nov. 2023.
+
+
