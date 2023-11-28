@@ -38,6 +38,7 @@ OBSERVAÇÃO GERAL: o notebook possui muitos gráficos e muitas iterações. Por
 <li> Scikitlearn </li>
 <li> Scipy </li>
 
+OBSERVAÇÃO GERAL: todas as bibliotecas devem estar na versão atual (28/11/2023)
 <h2>Referências: </h2>
 
 [1] Machine Learning in Astronomy: a practical overview - Dalya Baron. Disponível em: <http://ned.ipac.caltech.edu/level5/March19/Baron/Baron3.html>. Acesso em: 15 nov. 2023.
